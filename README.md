@@ -7,6 +7,9 @@ npm start
 
 ## Javascript
 
+See implementation in youtube video:
+Coding A Calendar App In Plain JavaScript: https://www.youtube.com/watch?v=m9OSBJaQTlM
+
 http://localhost:8080/vanilla
 
 vanilla.html
@@ -14,6 +17,9 @@ vanillaScript.js
 vanillaStyle.css
 
 ## React version
+
+See implementation in youtube video:
+Converting A Plain JavaScript App To React: https://www.youtube.com/watch?v=Q5Xen_Y7lUk
 
 http://localhost:8080/
 
